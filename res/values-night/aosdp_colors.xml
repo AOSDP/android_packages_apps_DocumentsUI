@@ -9,7 +9,7 @@
     <color name="band_select_border">#44000000</color>
     <color name="shortcut_background">@*android:color/material_grey_850</color>
 
-    <color name="root_title_color">#b3ffffff</color>
+    <color name="root_title_color">#ffffff</color>
     <color name="root_details_color">#8affffff</color>
     <color name="root_focus_color">#88ffffff</color>
     <color name="root_hover_color">#88ffffff</color>
@@ -20,10 +20,9 @@
     <item name="root_icon_disabled_alpha" format="float" type="dimen">@*android:dimen/disabled_alpha_material_light</item>
     <color name="doc_icon_color">@*android:color/accent_material_light</color>
     
-    <!-- TODO: Would be nice to move this to a color-set, but not sure how to support animation -->
     <color name="item_doc_title">#ffffff</color>
     <color name="item_doc_title_disabled">#80ffffff</color>
-    <color name="item_doc_details">#b3ffffff</color>
+    <color name="item_doc_details">#ffffff</color>
     <color name="item_breadcrumb_background_hovered">@*android:color/accent_material_light</color>
     <color name="item_doc_droppable_background">@*android:color/accent_material_light</color>
     <color name="item_doc_not_droppable_background">@*android:color/background_material_dark</color>
